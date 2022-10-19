@@ -5,6 +5,7 @@
  * @param secondNum second number (denominator)
  * @returns result of dividing `firstNum` by `secondNum`
  */
-const divide = (firstNum: number, secondNum: number): number => firstNum / secondNum;
+const divide = (firstNum: number, secondNum: number): number =>
+  firstNum / secondNum;
 
 export default divide;
